@@ -9,6 +9,6 @@ References:
 
 Borowiec, M. L. (2016) AMAS: a fast tool for alignment manipulation and computing of summary statistics. PeerJ. 4: e1660.
 Brunke, A J., Hansen, A. K., Salnitska, M., Kypke, J. L., Escalona, H., Chapados, J.T., Eyres, J., Richter, R., Smetana, A., Slipinski, A., Zwick, A., Hajek, J., Leschen, R., Solodovnikov, A. and Dettman, J.R. 2021. The limits of Quediini at last (Coleoptera: Staphylinidae: Staphylininae): a rove beetle mega-radiation resolved by comprehensive sampling and anchored phylogenomics. Systematic Entomology. 46: 396–421.
-Faircloth, B. C. (2016) PHYLUCE is a software package for the analysis of conserved genomic loci. Bioinformatics. 32: 786Ð788.
+Faircloth, B. C. (2016) PHYLUCE is a software package for the analysis of conserved genomic loci. Bioinformatics. 32: 786-788.
 
 
